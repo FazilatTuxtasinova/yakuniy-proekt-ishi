@@ -1,0 +1,49 @@
+.container{
+    background-image: url("../rasmlar/blue.jpg");
+}
+.map{
+    position: relative;
+    top: 100px;
+}
+.cc{
+    background-color: #6d97f1;
+    position: relative;
+    top: -37px;
+}
+.aa{
+    color: #b1c6f1;
+    position: relative;
+    top: -100px;
+}
+.a{
+    font-size: 18px;
+}
+.rr{
+    position: relative;
+    top: -150px;
+    left: -100px;
+}
+.an{
+    animation: running;
+}
+.b9{
+    position: relative;
+    top: -150px;
+    left: 800px;
+}
+.b5{
+    position: relative;
+    top: -140px;
+    left: -200px;
+}
+.gg{
+    height: 850px;
+}
+.a1{
+    color: black;
+    position: relative;
+    top: 30px;
+    left: -170px;
+    font-size: 15px;
+    font-weight: bold;
+}

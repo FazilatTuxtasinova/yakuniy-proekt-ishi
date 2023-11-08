@@ -1,0 +1,117 @@
+.container{
+    background-image: url("../rasmlar/ppppp.jpg");
+}
+.map{
+    position: relative;
+    top: 100px;
+    background-color: pink;
+    height: 200px;
+}
+.oo{
+    position: relative;
+    top: -240px;
+    left: 300px;
+    font-size: 13px;
+}
+.cc{
+    background-color: #f1a7ba;
+    position: relative;
+    top: -100px;
+}
+.hh{
+    position: relative;
+    top: 150px;
+}
+.aa{
+    color: #b1c6f1;
+    position: relative;
+    top: -100px;
+}
+.a{
+    font-size: 18px;
+    color: #f1a7ba;
+}
+.saw{
+    color: #f1a7ba;
+}
+.rr{
+    position: relative;
+    top: -20px;
+    left: 110px;
+    color: #f1a7ba;
+}
+.dd{
+    position: relative;
+    top: 150px;
+    left: 40px;
+    color: #f1a7ba;
+}
+.b9{
+    position: relative;
+    top: -50px;
+    left: 80px;
+}
+.b5{
+    position: relative;
+    top: -140px;
+    left: -200px;
+}
+.vv{
+    position: relative;
+    top: -150px;
+    left: 30px;
+}
+.gg{
+    height: 1975px;
+    width: 740px;
+    position: relative;
+    left: 350px;
+}
+.jj{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.ll{
+    color: #f1a7ba;
+    top: 140px;
+    left: 100px;
+}
+.ll1{
+    border-radius: 50px;
+    position: relative;
+    top: 200px;
+    left: 70px;
+}
+.ll2{
+    position: relative;
+    top: 210px;
+    left: 60px;
+}
+.ll3{
+    position: relative;
+    top: 210px;
+    left: -130px;
+    font-size: 13px;
+}
+.nn{
+    position: relative;
+    top: -200px;
+    left: 400px;
+}
+.nma{
+    position: relative;
+    top: -150px;
+}
+.fg{
+    position: relative;
+    top: -120px;
+}
+.a1{
+    color: black;
+    position: relative;
+    top: 30px;
+    left: -170px;
+    font-size: 15px;
+    font-weight: bold;
+}

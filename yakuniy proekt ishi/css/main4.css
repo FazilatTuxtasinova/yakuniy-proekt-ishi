@@ -1,0 +1,116 @@
+.container{
+    background-image: url("../rasmlar/dark fon.jpg");
+}
+.jj{
+    position: relative;
+    top: -50px;
+    left: -20px;
+}
+.cc{
+    background-color: #d7a7f1;
+    position: relative;
+    top: -507px;
+}
+.dar{
+    color: #efb4c4;
+}
+.ii{
+    position: relative;
+    top: -200px;
+}
+.tt{
+    position: relative;
+    top: -65px;
+    left: -33px;
+}
+.pp{
+    color: #efb4c4;
+    position: relative;
+    top: -280px;
+    font-size: 20px;
+}
+.pp1{
+    color: #efb4c4;
+    position: relative;
+    top: -490px;
+    font-size: 20px;
+    left: 310px;
+}
+.pp2{
+    color: #efb4c4;
+    position: relative;
+    top: -850px;
+    font-size: 20px;
+    left: 350px;
+}
+.rr{
+    position: relative;
+    top: -330px;
+    left: 10px;
+    color: #efb4c4;
+    font-size: 75px;
+}
+.ii3{
+    position: relative;
+    top: -500px;
+    left: -32px;
+}
+.ii1{
+    position: relative;
+    top: -530px;
+    left: 140px;
+}
+.ii2{
+    position: relative;
+    top: -220px;
+    left: 145px;
+}
+.b10{
+    position: relative;
+    top: -40px;
+    left: 750px;
+}
+.b11{
+    position: relative;
+    top: -140px;
+    left: -200px;
+}
+.gg{
+    height: 1930px;
+    width: 900px;
+    position: relative;
+    left: 100px;
+    background: linear-gradient(90deg,#1d4b3b,#a682ae);
+}
+.bg1{
+    background-color: #c5eaf6;
+    height: 95px;
+}
+.btnn{
+    width: 50px;
+    background-color: #11b4a2;
+    position: relative;
+    top: 190px;
+}
+.font2{
+    font-size: 20px;
+    background-color: #11b4a2;
+}
+.a{
+    color: #efb4c4;
+    font-size: 18px;
+}
+.dd{
+    position: relative;
+    bottom: 50px;
+    left: 50px;
+}
+.a1{
+    color: black;
+    position: relative;
+    top: 30px;
+    left: -170px;
+    font-size: 15px;
+    font-weight: bold;
+}
+

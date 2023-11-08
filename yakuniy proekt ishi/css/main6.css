@@ -1,0 +1,56 @@
+.container{
+    background-image: url("../rasmlar/red1.jpg");
+    width: 950px;
+}
+.wu{
+    width: 950px;
+}
+.wot{
+    width: 950px;
+}
+.a{
+    color: #f16855;
+    font-size: 18px;
+}
+.nn{
+    color: #f16855;
+}
+.a1{
+    position: relative;
+    top: -130px;
+    left: 200px;
+}
+.a2{
+    position: relative;
+    top: -260px;
+    left: 380px;
+}
+.a3{
+    position: relative;
+    top: -485px;
+    left: 650px;
+}
+.a4{
+    position: relative;
+    top: -500px;
+}
+.a5{
+    position: relative;
+    top: -500px;
+}
+.cc{
+    background-color: #f16855;
+    position: relative;
+    top: -500px;
+}
+.gg{
+    height: 1130px;
+}
+.a1{
+    color: black;
+    position: relative;
+    top: 15px;
+    left: 320px;
+    font-size: 15px;
+    font-weight: bold;
+}
